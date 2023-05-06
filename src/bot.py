@@ -162,14 +162,8 @@ def run_discord_bot():
         - `/public` ChatGPT switch to public mode
         - `/replyall` ChatGPT switch between replyAll mode and default mode
         - `/reset` Clear ChatGPT conversation history
-        - `/chat-model` Switch different chat model
-                `OFFICIAL`: GPT-3.5 model
-                `UNOFFICIAL`: Website ChatGPT
-                `Bard`: Google Bard model
-                `Bing`: Microsoft Bing model
 
-For complete documentation, please visit:
-https://github.com/Zero6992/chatGPT-discord-bot""")
+kieru#0101""")
 
         logger.info(
             "\x1b[31mSomeone needs help!\x1b[0m")
